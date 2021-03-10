@@ -9,7 +9,6 @@ function main() {
    comment*/
    //Only change code above this line
  
- 
 }
 
 console.log(main());
