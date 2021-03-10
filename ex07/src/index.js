@@ -5,7 +5,7 @@ function main() {
     var properCamelCase;
     var titleCaseOver;
 
-    //Variable assigment
+    //Variable assigments
     studlyCapVar = 10;
     properCamelCase = "A string";
     titleCaseOver = 9000;
